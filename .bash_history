@@ -49,3 +49,8 @@ touch day1_example.sh
 ls
 vim day2_example.sh 
 ./day2_example.sh 
+pwd
+ls
+cat day2_example.sh 
+git init
+git add .
